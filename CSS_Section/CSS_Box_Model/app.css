@@ -1,0 +1,42 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  width: 100px;
+  background-color: rgb(245, 157, 203);
+  padding-left: 100px;
+  padding-top: 50px;
+  margin: 0;
+}
+
+#one {
+  background-color: pink;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  /* box-sizing: border-box; */
+  margin-left: 50px;
+  margin-bottom: 100px;
+} 
+
+#two {
+  background-color: rgb(213, 162, 170);
+  border-color: wheat;
+  border-width: 4px;
+  border-style: dashed;
+  border-left-width: 8px;
+  margin: 100px
+}
+
+#three {
+  background-color: rgb(184, 140, 146);
+  border: 4px dashed red;
+  border-left-style: solid;
+  border-radius: 50%;
+}
